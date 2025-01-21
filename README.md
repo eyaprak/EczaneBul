@@ -17,6 +17,9 @@ Eğer izleyerek öğrenmeyi tercih ediyorsanız, bu kaynak tam size göre. Başl
 - NoasyAPI
 - Google Maps API
 
+## 📁 Dosyalar
+- Projenin public dosyasına <a href="https://drive.google.com/file/d/1Nm4Y5VVEgoL0FFdvaW6FeRkJw5pH0YXs/view" target="_blank"><b>buradan</b></a> ulaşabilirsiniz.
+
 ## 🖼️ Uygulamadan Resimler
 ![App](https://github.com/user-attachments/assets/ef1f7f5f-aa07-4a34-9867-5a38e6cae355)
 
