@@ -2,20 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+html {
+  scroll-behavior: smooth;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.container {
+  @apply max-w-7xl mx-auto
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.title {
+  @apply text-primary text-3xl font-primary font-bold text-center
+}
+
+.subtitle {
+  @apply text-slate-500 font-secondary text-center text-sm mt-1
+}
+
+.card {
+  @apply border border-primary rounded-md px-6 py-10 flex flex-col items-center justify-center text-center
+}
+
+.link {
+  @apply hover:text-white hover:bg-primary transition-all rounded-md md:px-4 md:py-2 px-2 py-1
 }
