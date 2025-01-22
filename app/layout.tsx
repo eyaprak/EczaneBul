@@ -14,7 +14,7 @@ const lexend = Lexend({
 });
 
 const inter = Inter({
-  weight: ["400", "700"],
+  weight: ["400"],
   subsets: ["latin"],
   display: "swap",
   variable: "--font-inter",
